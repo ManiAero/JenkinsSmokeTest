@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="jenkinsNew11"
+      id="cff601f0-8e4a-4d0e-a548-a110437b88b2"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="jenkinsNew11"
+      id="cff601f0-8e4a-4d0e-a548-a110437b88b2"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>

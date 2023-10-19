@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="jenkinsNew11Repository"
+id="cbb21d4c-60d7-4fd1-a48c-54ad48ce3ae9">
+  <codegen
+  classname="jenkinsNew11Repository"
+  namespace="jenkinsNew11"/>
+  <rootfolder
+  name="Root"
+  id="b34a7048-cc1a-4d65-b518-99e710fed618"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>

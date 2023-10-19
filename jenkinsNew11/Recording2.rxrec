@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="5e41ff0d-5bbe-4070-b645-a8583e52ed6e"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording2"
+	namespace="jenkinsNew11">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<runapprecorditem
+		enabled="True"
+		maximized="False"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<filename>
+				D:\case files\Ranorex Files\Demo.exe
+			</filename>
+			<workingdir>
+				D:\case files\Ranorex Files
+			</workingdir>
+			<args>
+			</args>
+		</runapprecorditem>
+	</recorditems>
+	<repository
+	id="cbb21d4c-60d7-4fd1-a48c-54ad48ce3ae9"
+	name="jenkinsNew11Repository"
+	relativepath="jenkinsNew11Repository.rxrep">
+		<codegen
+		classname="jenkinsNew11Repository"
+		namespace="jenkinsNew11">
+		</codegen>
+		<rootfolder
+		id="b34a7048-cc1a-4d65-b518-99e710fed618"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording2.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
