@@ -7,6 +7,12 @@
 			name="TestCase2">
 			</testcase>
 			<testmodule
+			id="430bc570-beac-490f-a1fe-cb0066b1f16a"
+			name="Recording3"
+			ref="30ced230-4274-4d4b-966c-efa8afba80be"
+			type="Recording">
+			</testmodule>
+			<testmodule
 			id="50a607ca-1c10-4c0f-b073-1a1c2f822a66"
 			name="Recording2"
 			ref="5e41ff0d-5bbe-4070-b645-a8583e52ed6e"
@@ -58,6 +64,10 @@
 			id="a5d99217-9238-494b-bf49-b2295d3d8cab"
 			name="TestCase">
 			</testcase>
+			<testcase
+			id="c21d7e56-584e-4db8-a05c-ea8c9d78c2a2"
+			name="TestCase3">
+			</testcase>
 		</flatlistofchildren>
 		<childhierarchy>
 			<testsuite
@@ -82,6 +92,14 @@
 						name="Recording2">
 						</testmodule>
 					</testcase>
+					<testcase
+					id="c21d7e56-584e-4db8-a05c-ea8c9d78c2a2"
+					name="TestCase3">
+						<testmodule
+						id="430bc570-beac-490f-a1fe-cb0066b1f16a"
+						name="Recording3">
+						</testmodule>
+					</testcase>
 				</testcase>
 			</testsuite>
 		</childhierarchy>
@@ -89,18 +107,21 @@
 	<datasources>
 	</datasources>
 	<testconfigurations
-	default="SmokeTest">
+	default="Mani">
 		<testconfiguration
-		name="Regression">
+		name="Mani">
 			<testcontainer
 			id="80d86a42-08c5-4dab-88b7-43c911550b34">
 			</testcontainer>
 			<testcontainer
 			id="a5d99217-9238-494b-bf49-b2295d3d8cab">
 			</testcontainer>
+			<testcontainer
+			id="c21d7e56-584e-4db8-a05c-ea8c9d78c2a2">
+			</testcontainer>
 		</testconfiguration>
 		<testconfiguration
-		name="SmokeTest">
+		name="Smoke">
 			<testcontainer
 			id="282df710-ad29-46e4-a7cb-b3014acec8da">
 			</testcontainer>

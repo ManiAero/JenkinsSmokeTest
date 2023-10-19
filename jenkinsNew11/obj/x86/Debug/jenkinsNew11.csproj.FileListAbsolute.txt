@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\jenkinsNew11\jenkinsNew11\bin\Debug\jenkinsNew11.rxtmg
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\jenkinsNew11\jenkinsNew11\bin\Debug\jenkinsNew11.rxtst
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\jenkinsNew11\jenkinsNew11\bin\Debug\jenkinsNew11.exe.config
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\jenkinsNew11\jenkinsNew11\bin\Debug\jenkinsNew11.xml
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\jenkinsNew11\jenkinsNew11\bin\Debug\jenkinsNew11.exe
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\jenkinsNew11\jenkinsNew11\bin\Debug\jenkinsNew11.pdb
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\jenkinsNew11\jenkinsNew11\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\jenkinsNew11\jenkinsNew11\obj\x86\Debug\jenkinsNew11.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\jenkinsNew11\jenkinsNew11\obj\x86\Debug\jenkinsNew11.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\jenkinsNew11\jenkinsNew11\obj\x86\Debug\jenkinsNew11.csproj.CopyComplete
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\jenkinsNew11\jenkinsNew11\obj\x86\Debug\jenkinsNew11.exe
+C:\Users\Admin\Documents\Ranorex\RanorexStudio Projects\jenkinsNew11\jenkinsNew11\obj\x86\Debug\jenkinsNew11.pdb
